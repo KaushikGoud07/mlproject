@@ -11,4 +11,5 @@ keras
 torch
 fastapi
 uvicorn
--e .
+scikit-learn
+#-e .
