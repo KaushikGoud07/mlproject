@@ -13,4 +13,7 @@ fastapi
 uvicorn
 scikit-learn
 dill
+flask
 #-e .
+
+#pip install -r requirements.txt
